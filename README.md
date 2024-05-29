@@ -40,7 +40,7 @@ Here are some examples of my solutions:
 - **[Challenge 5](/8kyu/Square(n)-Sum.js)**: Square(n) Sum.
 - **[Challenge 6](/8kyu/Returning-Strings.js)**: Returning Strings.
 - **[Challenge 7](/8kyu/Remove-String-Spaces.js)**: Remove String Spaces.
-- **[Challenge 8](/8kyu/Returning-Strings.js)**: Reversed Strings.
+- **[Challenge 8](/8kyu/Reversed-Strings.js)**: Reversed Strings.
 - **[Challenge 9](/8kyu/Transportation-on-vacation.js)**: Transportation on vacation.
 - **[Challenge 10](/8kyu/Convert-a-string-to-an-array.js)**: Convert a string to an array.
 - **[Challenge 11](/8kyu/Beginner-Lost-Without-a-Map.js)**: Beginner - Lost Without a Map.
