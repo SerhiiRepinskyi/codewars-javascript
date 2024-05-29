@@ -33,28 +33,28 @@ Here are some examples of my solutions:
 
 ### 8kyu
 
-- **[Challenge 1](codewars-javascript/8kyu/Sentence-Smash.js)**: Sentence Smash.
-- **[Challenge 2](codewars-javascript/8kyu/Counting-Sheep.js)**: Counting sheep...
-- **[Challenge 3](codewars-javascript/8kyu/Find-Maximum-and-Minimum-Values-of-a-List.js)**: Find Maximum and Minimum Values of a List.
-- **[Challenge 4](codewars-javascript/8kyu/Calculate-BMI.js)**: Calculate BMI.
-- **[Challenge 5](codewars-javascript/8kyu/Square(n)-Sum.js)**: Square(n) Sum.
-- **[Challenge 6](codewars-javascript/8kyu/Returning-Strings.js)**: Returning Strings.
-- **[Challenge 7](codewars-javascript/8kyu/Remove-String-Spaces.js)**: Remove String Spaces.
-- **[Challenge 8](codewars-javascript/8kyu/Returning-Strings.js)**: Reversed Strings.
-- **[Challenge 9](codewars-javascript/8kyu/Transportation-on-vacation.js)**: Transportation on vacation.
-- **[Challenge 10](codewars-javascript/8kyu/Convert-a-string-to-an-array.js)**: Convert a string to an array.
-- **[Challenge 11](codewars-javascript/8kyu/Beginner-Lost-Without-a-Map.js)**: Beginner - Lost Without a Map.
-- **[Challenge 12](codewars-javascript/8kyu/Convert-a-Number-to-a-String!.js)**: Convert a Number to a String!
-- **[Challenge 13](codewars-javascript/8kyu/Return-Negative.js)**: Return Negative.
-- **[Challenge 14](codewars-javascript/8kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'.js)**: Convert boolean values to strings 'Yes' or 'No'.
-- **[Challenge 15](codewars-javascript/8kyu/Convert-a-Boolean-to-a-String.js)**: Convert a Boolean to a String.
-- **[Challenge 16](codewars-javascript/8kyu/Remove-First-and-Last-Character.js)**: Remove First and Last Character.
+- **[Challenge 1](/8kyu/Sentence-Smash.js)**: Sentence Smash.
+- **[Challenge 2](/8kyu/Counting-Sheep.js)**: Counting sheep...
+- **[Challenge 3](/8kyu/Find-Maximum-and-Minimum-Values-of-a-List.js)**: Find Maximum and Minimum Values of a List.
+- **[Challenge 4](/8kyu/Calculate-BMI.js)**: Calculate BMI.
+- **[Challenge 5](/8kyu/Square(n)-Sum.js)**: Square(n) Sum.
+- **[Challenge 6](/8kyu/Returning-Strings.js)**: Returning Strings.
+- **[Challenge 7](/8kyu/Remove-String-Spaces.js)**: Remove String Spaces.
+- **[Challenge 8](/8kyu/Returning-Strings.js)**: Reversed Strings.
+- **[Challenge 9](/8kyu/Transportation-on-vacation.js)**: Transportation on vacation.
+- **[Challenge 10](/8kyu/Convert-a-string-to-an-array.js)**: Convert a string to an array.
+- **[Challenge 11](/8kyu/Beginner-Lost-Without-a-Map.js)**: Beginner - Lost Without a Map.
+- **[Challenge 12](/8kyu/Convert-a-Number-to-a-String!.js)**: Convert a Number to a String!
+- **[Challenge 13](/8kyu/Return-Negative.js)**: Return Negative.
+- **[Challenge 14](/8kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'.js)**: Convert boolean values to strings 'Yes' or 'No'.
+- **[Challenge 15](/8kyu/Convert-a-Boolean-to-a-String.js)**: Convert a Boolean to a String.
+- **[Challenge 16](/8kyu/Remove-First-and-Last-Character.js)**: Remove First and Last Character.
 
 ### 7kyu
 
-- **[Challenge 1](codewars-javascript/7kyu/Reverse-words.js)**: Reverse words.
-- **[Challenge 2](codewars-javascript/7kyu/Descending-Order.js)**: Descending Order.
-- **[Challenge 3](codewars-javascript/7kyu/You're-a-square!.js)**: You're a square!
+- **[Challenge 1](/7kyu/Reverse-words.js)**: Reverse words.
+- **[Challenge 2](/7kyu/Descending-Order.js)**: Descending Order.
+- **[Challenge 3](/7kyu/You're-a-square!.js)**: You're a square!
 
 ### 6kyu
 
