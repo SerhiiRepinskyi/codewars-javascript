@@ -55,6 +55,8 @@ Here are some examples of my solutions:
 - **[Challenge 1](/7kyu/Reverse-words.js)**: Reverse words.
 - **[Challenge 2](/7kyu/Descending-Order.js)**: Descending Order.
 - **[Challenge 3](/7kyu/You're-a-square!.js)**: You're a square!
+- **[Challenge 4](/7kyu/Binary-Addition.js)**: Binary Addition.
+- **[Challenge 5](/7kyu/Complementary-DNA.js)**: Complementary DNA.
 
 ### 6kyu
 
