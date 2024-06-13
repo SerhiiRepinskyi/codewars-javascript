@@ -49,6 +49,8 @@ Here are some examples of my solutions:
 - **[Challenge 14](/8kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'.js)**: Convert boolean values to strings 'Yes' or 'No'.
 - **[Challenge 15](/8kyu/Convert-a-Boolean-to-a-String.js)**: Convert a Boolean to a String.
 - **[Challenge 16](/8kyu/Remove-First-and-Last-Character.js)**: Remove First and Last Character.
+- **[Challenge 17](/8kyu/Are-You-Playing-Banjo.js)**: Are You Playing Banjo?
+- **[Challenge 18](/8kyu/Convert-number-to-reversed-array-of-digits.js)**: Convert number to reversed array of digits.
 
 ### 7kyu
 
@@ -57,6 +59,7 @@ Here are some examples of my solutions:
 - **[Challenge 3](/7kyu/You're-a-square!.js)**: You're a square!
 - **[Challenge 4](/7kyu/Binary-Addition.js)**: Binary Addition.
 - **[Challenge 5](/7kyu/Complementary-DNA.js)**: Complementary DNA.
+- **[Challenge 6](/7kyu/Testing-1-2-3.js)**: Testing 1-2-3.
 
 ### 6kyu
 
