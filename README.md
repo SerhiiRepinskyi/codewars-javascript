@@ -60,6 +60,10 @@ Here are some examples of my solutions:
 - **[Challenge 4](/7kyu/Binary-Addition.js)**: Binary Addition.
 - **[Challenge 5](/7kyu/Complementary-DNA.js)**: Complementary DNA.
 - **[Challenge 6](/7kyu/Testing-1-2-3.js)**: Testing 1-2-3.
+- **[Challenge 7](/7kyu/List-Filtering.js)**: List Filtering.
+- **[Challenge 8](/7kyu/Disemvowel-Trolls.js)**: Disemvowel Trolls.
+- **[Challenge 9](/7kyu/Sum-of-odd-numbers.js)**: Sum of odd numbers.
+- **[Challenge 10](/7kyu/Is-this-a-triangle.js)**: Is this a triangle?
 
 ### 6kyu
 
