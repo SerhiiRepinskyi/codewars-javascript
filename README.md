@@ -64,6 +64,8 @@ Here are some examples of my solutions:
 - **[Challenge 8](/7kyu/Disemvowel-Trolls.js)**: Disemvowel Trolls.
 - **[Challenge 9](/7kyu/Sum-of-odd-numbers.js)**: Sum of odd numbers.
 - **[Challenge 10](/7kyu/Is-this-a-triangle.js)**: Is this a triangle?
+- **[Challenge 11](/7kyu/Get-the-Middle-Character.js)**: Get the Middle Character.
+- **[Challenge 12](/7kyu/Sum-of-two-lowest-positive-integers.js)**: Sum of two lowest positive integers.
 
 ### 6kyu
 
