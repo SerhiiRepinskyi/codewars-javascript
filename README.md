@@ -69,7 +69,7 @@ Here are some examples of my solutions:
 
 ### 6kyu
 
-- ...
+- **[Challenge 1](/6kyu/Two-Sum.js)**: Two Sum.
 
 ## How to Use
 
