@@ -67,6 +67,7 @@ Here are some examples of my solutions:
 - **[Challenge 11](/7kyu/Get-the-Middle-Character.js)**: Get the Middle Character.
 - **[Challenge 12](/7kyu/Sum-of-two-lowest-positive-integers.js)**: Sum of two lowest positive integers.
 - **[Challenge 13](/7kyu/String-ends-with.js)**: String ends with?
+- **[Challenge 14](/7kyu/Isograms.js)**: Isograms
 
 ### 6kyu
 
