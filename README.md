@@ -67,12 +67,13 @@ Here are some examples of my solutions:
 - **[Challenge 11](/7kyu/Get-the-Middle-Character.js)**: Get the Middle Character.
 - **[Challenge 12](/7kyu/Sum-of-two-lowest-positive-integers.js)**: Sum of two lowest positive integers.
 - **[Challenge 13](/7kyu/String-ends-with.js)**: String ends with?
-- **[Challenge 14](/7kyu/Isograms.js)**: Isograms
-- **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit
+- **[Challenge 14](/7kyu/Isograms.js)**: Isograms.
+- **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit.
 
 ### 6kyu
 
 - **[Challenge 1](/6kyu/Two-Sum.js)**: Two Sum.
+- **[Challenge 2](/6kyu/Array-diff.js)**: Array.diff.
 
 ## How to Use
 
