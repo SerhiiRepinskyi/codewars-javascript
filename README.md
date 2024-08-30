@@ -68,6 +68,7 @@ Here are some examples of my solutions:
 - **[Challenge 12](/7kyu/Sum-of-two-lowest-positive-integers.js)**: Sum of two lowest positive integers.
 - **[Challenge 13](/7kyu/String-ends-with.js)**: String ends with?
 - **[Challenge 14](/7kyu/Isograms.js)**: Isograms
+- **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit
 
 ### 6kyu
 
