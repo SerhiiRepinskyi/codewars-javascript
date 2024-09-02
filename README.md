@@ -75,6 +75,7 @@ Here are some examples of my solutions:
 - **[Challenge 1](/6kyu/Two-Sum.js)**: Two Sum.
 - **[Challenge 2](/6kyu/Array-diff.js)**: Array.diff.
 - **[Challenge 3](/6kyu/Count-characters-in-your-string.js)**: Count characters in your string.
+- **[Challenge 4](/6kyu/Unique-In-Order.js)**: Unique In Order.
 
 ## How to Use
 
