@@ -76,6 +76,7 @@ Here are some examples of my solutions:
 - **[Challenge 2](/6kyu/Array-diff.js)**: Array.diff.
 - **[Challenge 3](/6kyu/Count-characters-in-your-string.js)**: Count characters in your string.
 - **[Challenge 4](/6kyu/Unique-In-Order.js)**: Unique In Order.
+- **[Challenge 5](/6kyu/Find-the-odd-int.js)**: Find the odd int.
 
 ## How to Use
 
