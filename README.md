@@ -38,6 +38,7 @@ Here are some examples of my solutions:
 - **[Challenge 4](/6kyu/Unique-In-Order.js)**: Unique In Order.
 - **[Challenge 5](/6kyu/Find-the-odd-int.js)**: Find the odd int.
 - **[Challenge 6](/6kyu/Break-camelCase.js)**: Break camelCase.
+- **[Challenge 7](/6kyu/Take-a-Number-And-Sum-Its-Digits-Raised-To-The-Consecutive-Powers.js)**: Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
 
 ### 7kyu
 
