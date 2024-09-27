@@ -21,15 +21,41 @@ This repository contains my solutions to JavaScript challenges on Codewars. Each
 
 ## Folder Structure
 
-
-- `8kyu/`: Solutions for 8kyu level challenges.
-- `7kyu/`: Solutions for 7kyu level challenges.
-- `6kyu/`: Solutions for 6kyu level challenges.
 - ...
+- `6kyu/`: Solutions for 6kyu level challenges.
+- `7kyu/`: Solutions for 7kyu level challenges.
+- `8kyu/`: Solutions for 8kyu level challenges.
 
 ## Solutions
 
 Here are some examples of my solutions:
+
+### 6kyu
+
+- **[Challenge 1](/6kyu/Two-Sum.js)**: Two Sum.
+- **[Challenge 2](/6kyu/Array-diff.js)**: Array.diff.
+- **[Challenge 3](/6kyu/Count-characters-in-your-string.js)**: Count characters in your string.
+- **[Challenge 4](/6kyu/Unique-In-Order.js)**: Unique In Order.
+- **[Challenge 5](/6kyu/Find-the-odd-int.js)**: Find the odd int.
+- **[Challenge 6](/6kyu/Break-camelCase.js)**: Break camelCase.
+
+### 7kyu
+
+- **[Challenge 1](/7kyu/Reverse-words.js)**: Reverse words.
+- **[Challenge 2](/7kyu/Descending-Order.js)**: Descending Order.
+- **[Challenge 3](/7kyu/You're-a-square!.js)**: You're a square!
+- **[Challenge 4](/7kyu/Binary-Addition.js)**: Binary Addition.
+- **[Challenge 5](/7kyu/Complementary-DNA.js)**: Complementary DNA.
+- **[Challenge 6](/7kyu/Testing-1-2-3.js)**: Testing 1-2-3.
+- **[Challenge 7](/7kyu/List-Filtering.js)**: List Filtering.
+- **[Challenge 8](/7kyu/Disemvowel-Trolls.js)**: Disemvowel Trolls.
+- **[Challenge 9](/7kyu/Sum-of-odd-numbers.js)**: Sum of odd numbers.
+- **[Challenge 10](/7kyu/Is-this-a-triangle.js)**: Is this a triangle?
+- **[Challenge 11](/7kyu/Get-the-Middle-Character.js)**: Get the Middle Character.
+- **[Challenge 12](/7kyu/Sum-of-two-lowest-positive-integers.js)**: Sum of two lowest positive integers.
+- **[Challenge 13](/7kyu/String-ends-with.js)**: String ends with?
+- **[Challenge 14](/7kyu/Isograms.js)**: Isograms.
+- **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit.
 
 ### 8kyu
 
@@ -51,33 +77,7 @@ Here are some examples of my solutions:
 - **[Challenge 16](/8kyu/Remove-First-and-Last-Character.js)**: Remove First and Last Character.
 - **[Challenge 17](/8kyu/Are-You-Playing-Banjo.js)**: Are You Playing Banjo?
 - **[Challenge 18](/8kyu/Convert-number-to-reversed-array-of-digits.js)**: Convert number to reversed array of digits.
-
-### 7kyu
-
-- **[Challenge 1](/7kyu/Reverse-words.js)**: Reverse words.
-- **[Challenge 2](/7kyu/Descending-Order.js)**: Descending Order.
-- **[Challenge 3](/7kyu/You're-a-square!.js)**: You're a square!
-- **[Challenge 4](/7kyu/Binary-Addition.js)**: Binary Addition.
-- **[Challenge 5](/7kyu/Complementary-DNA.js)**: Complementary DNA.
-- **[Challenge 6](/7kyu/Testing-1-2-3.js)**: Testing 1-2-3.
-- **[Challenge 7](/7kyu/List-Filtering.js)**: List Filtering.
-- **[Challenge 8](/7kyu/Disemvowel-Trolls.js)**: Disemvowel Trolls.
-- **[Challenge 9](/7kyu/Sum-of-odd-numbers.js)**: Sum of odd numbers.
-- **[Challenge 10](/7kyu/Is-this-a-triangle.js)**: Is this a triangle?
-- **[Challenge 11](/7kyu/Get-the-Middle-Character.js)**: Get the Middle Character.
-- **[Challenge 12](/7kyu/Sum-of-two-lowest-positive-integers.js)**: Sum of two lowest positive integers.
-- **[Challenge 13](/7kyu/String-ends-with.js)**: String ends with?
-- **[Challenge 14](/7kyu/Isograms.js)**: Isograms.
-- **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit.
-
-### 6kyu
-
-- **[Challenge 1](/6kyu/Two-Sum.js)**: Two Sum.
-- **[Challenge 2](/6kyu/Array-diff.js)**: Array.diff.
-- **[Challenge 3](/6kyu/Count-characters-in-your-string.js)**: Count characters in your string.
-- **[Challenge 4](/6kyu/Unique-In-Order.js)**: Unique In Order.
-- **[Challenge 5](/6kyu/Find-the-odd-int.js)**: Find the odd int.
-- **[Challenge 6](/6kyu/Break-camelCase.js)**: Break camelCase.
+- **[Challenge 19](/8kyu/What-is-between.js)**: What is between?
 
 ## How to Use
 
