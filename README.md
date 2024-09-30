@@ -58,6 +58,7 @@ Here are some examples of my solutions:
 - **[Challenge 13](/7kyu/String-ends-with.js)**: String ends with?
 - **[Challenge 14](/7kyu/Isograms.js)**: Isograms.
 - **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit.
+- **[Challenge 16](/7kyu/Highest-and-Lowest.js)**: Highest and Lowest.
 
 ### 8kyu
 
