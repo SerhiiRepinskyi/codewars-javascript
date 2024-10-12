@@ -59,6 +59,7 @@ Here are some examples of my solutions:
 - **[Challenge 14](/7kyu/Isograms.js)**: Isograms.
 - **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit.
 - **[Challenge 16](/7kyu/Highest-and-Lowest.js)**: Highest and Lowest.
+- **[Challenge 17](/7kyu/Mumbling.js)**: Mumbling.
 
 ### 8kyu
 
