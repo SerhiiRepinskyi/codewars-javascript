@@ -22,6 +22,7 @@ This repository contains my solutions to JavaScript challenges on Codewars. Each
 ## Folder Structure
 
 - ...
+- `5kyu/`: Solutions for 5kyu level challenges.
 - `6kyu/`: Solutions for 6kyu level challenges.
 - `7kyu/`: Solutions for 7kyu level challenges.
 - `8kyu/`: Solutions for 8kyu level challenges.
@@ -29,6 +30,10 @@ This repository contains my solutions to JavaScript challenges on Codewars. Each
 ## Solutions
 
 Here are some examples of my solutions:
+
+### 5kyu
+
+- **[Challenge 1](/5kyu/Human-Readable-Time.js)**: Human Readable Time.
 
 ### 6kyu
 
