@@ -46,6 +46,7 @@ Here are some examples of my solutions:
 - **[Challenge 6](/6kyu/Break-camelCase.js)**: Break camelCase.
 - **[Challenge 7](/6kyu/Take-a-Number-And-Sum-Its-Digits-Raised-To-The-Consecutive-Powers.js)**: Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
 - **[Challenge 8](/6kyu/Counting-Duplicates.js)**: Counting Duplicates.
+- **[Challenge 9](/6kyu/Who-likes-it.js)**: Who likes it?
 
 ### 7kyu
 
