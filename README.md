@@ -47,6 +47,8 @@ Here are some examples of my solutions:
 - **[Challenge 7](/6kyu/Take-a-Number-And-Sum-Its-Digits-Raised-To-The-Consecutive-Powers.js)**: Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!
 - **[Challenge 8](/6kyu/Counting-Duplicates.js)**: Counting Duplicates.
 - **[Challenge 9](/6kyu/Who-likes-it.js)**: Who likes it?
+- **[Challenge 10](/6kyu/Take-a-Ten-Minutes-Walk.js)**: Take a Ten Minutes Walk.
+
 
 ### 7kyu
 
