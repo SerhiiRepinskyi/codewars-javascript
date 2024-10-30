@@ -48,6 +48,7 @@ Here are some examples of my solutions:
 - **[Challenge 8](/6kyu/Counting-Duplicates.js)**: Counting Duplicates.
 - **[Challenge 9](/6kyu/Who-likes-it.js)**: Who likes it?
 - **[Challenge 10](/6kyu/Take-a-Ten-Minutes-Walk.js)**: Take a Ten Minutes Walk.
+- **[Challenge 11](/6kyu/Persistent-Bugger.js)**: Persistent Bugger.
 
 
 ### 7kyu
