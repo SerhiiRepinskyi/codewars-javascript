@@ -22,6 +22,7 @@ This repository contains my solutions to JavaScript challenges on Codewars. Each
 ## Folder Structure
 
 - ...
+- `4kyu/`: Solutions for 4kyu level challenges.
 - `5kyu/`: Solutions for 5kyu level challenges.
 - `6kyu/`: Solutions for 6kyu level challenges.
 - `7kyu/`: Solutions for 7kyu level challenges.
@@ -30,6 +31,10 @@ This repository contains my solutions to JavaScript challenges on Codewars. Each
 ## Solutions
 
 Here are some examples of my solutions:
+
+### 4kyu
+
+- **[Challenge 1](/4kyu/Adding-Big-Numbers.js)**: Adding Big Numbers.
 
 ### 5kyu
 
@@ -50,7 +55,6 @@ Here are some examples of my solutions:
 - **[Challenge 9](/6kyu/Who-likes-it.js)**: Who likes it?
 - **[Challenge 10](/6kyu/Take-a-Ten-Minutes-Walk.js)**: Take a Ten Minutes Walk.
 - **[Challenge 11](/6kyu/Persistent-Bugger.js)**: Persistent Bugger.
-
 
 ### 7kyu
 
