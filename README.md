@@ -35,6 +35,7 @@ Here are some examples of my solutions:
 
 - **[Challenge 1](/5kyu/Human-Readable-Time.js)**: Human Readable Time.
 - **[Challenge 2](/5kyu/Beeramid.js)**: Beeramid.
+- **[Challenge 3](/5kyu/Calculating-with-Functions.js)**: Calculating with Functions.
 
 ### 6kyu
 
