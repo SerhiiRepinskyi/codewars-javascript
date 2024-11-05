@@ -35,6 +35,7 @@ Here are some examples of my solutions:
 ### 4kyu
 
 - **[Challenge 1](/4kyu/Adding-Big-Numbers.js)**: Adding Big Numbers.
+- **[Challenge 2](/4kyu/Roman-Numerals-Helper.js)**: Roman Numerals Helper.
 
 ### 5kyu
 
