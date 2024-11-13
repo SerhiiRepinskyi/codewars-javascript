@@ -76,6 +76,7 @@ Here are some examples of my solutions:
 - **[Challenge 15](/7kyu/Square-Every-Digit.js)**: Square Every Digit.
 - **[Challenge 16](/7kyu/Highest-and-Lowest.js)**: Highest and Lowest.
 - **[Challenge 17](/7kyu/Mumbling.js)**: Mumbling.
+- **[Challenge 18](/7kyu/Remove-the-minimum.js)**: Remove the minimum.
 
 ### 8kyu
 
