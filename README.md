@@ -79,6 +79,7 @@ Here are some examples of my solutions:
 - **[Challenge 16](/7kyu/Highest-and-Lowest.js)**: Highest and Lowest.
 - **[Challenge 17](/7kyu/Mumbling.js)**: Mumbling.
 - **[Challenge 18](/7kyu/Remove-the-minimum.js)**: Remove the minimum.
+- **[Challenge 19](/7kyu/Regex-validate-PIN-code.js)**: Regex validate PIN code.
 
 ### 8kyu
 
