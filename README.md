@@ -58,6 +58,7 @@ Here are some examples of my solutions:
 - **[Challenge 11](/6kyu/Persistent-Bugger.js)**: Persistent Bugger.
 - **[Challenge 12](/6kyu/Duplicate-Encoder.js)**: Duplicate Encoder.
 - **[Challenge 13](/6kyu/Bouncing-Balls.js)**: Bouncing Balls.
+- **[Challenge 14](/6kyu/Enough-is-enough.js)**: Enough is enough!
 
 ### 7kyu
 
