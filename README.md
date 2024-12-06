@@ -59,6 +59,7 @@ Here are some examples of my solutions:
 - **[Challenge 12](/6kyu/Duplicate-Encoder.js)**: Duplicate Encoder.
 - **[Challenge 13](/6kyu/Bouncing-Balls.js)**: Bouncing Balls.
 - **[Challenge 14](/6kyu/Enough-is-enough.js)**: Enough is enough!
+- **[Challenge 15](/6kyu/Convert-string-to-camel-case.js)**: Convert string to camel case.
 
 ### 7kyu
 
