@@ -60,6 +60,7 @@ Here are some examples of my solutions:
 - **[Challenge 13](/6kyu/Bouncing-Balls.js)**: Bouncing Balls.
 - **[Challenge 14](/6kyu/Enough-is-enough.js)**: Enough is enough!
 - **[Challenge 15](/6kyu/Convert-string-to-camel-case.js)**: Convert string to camel case.
+- **[Challenge 16](/6kyu/Your-order-please.js)**: Your order, please.
 
 ### 7kyu
 
