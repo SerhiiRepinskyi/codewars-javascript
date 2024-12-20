@@ -61,6 +61,7 @@ Here are some examples of my solutions:
 - **[Challenge 14](/6kyu/Enough-is-enough.js)**: Enough is enough!
 - **[Challenge 15](/6kyu/Convert-string-to-camel-case.js)**: Convert string to camel case.
 - **[Challenge 16](/6kyu/Your-order-please.js)**: Your order, please.
+- **[Challenge 17](/6kyu/Sum-of-Digits-Digital-Root.js)**: Sum of Digits / Digital Root.
 
 ### 7kyu
 
