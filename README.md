@@ -62,6 +62,7 @@ Here are some examples of my solutions:
 - **[Challenge 15](/6kyu/Convert-string-to-camel-case.js)**: Convert string to camel case.
 - **[Challenge 16](/6kyu/Your-order-please.js)**: Your order, please.
 - **[Challenge 17](/6kyu/Sum-of-Digits-Digital-Root.js)**: Sum of Digits / Digital Root.
+- **[Challenge 18](/6kyu/Create-Phone-Number.js)**: Create Phone Number.
 
 ### 7kyu
 
