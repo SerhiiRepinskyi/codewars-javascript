@@ -42,6 +42,7 @@ Here are some examples of my solutions:
 - **[Challenge 1](/5kyu/Human-Readable-Time.js)**: Human Readable Time.
 - **[Challenge 2](/5kyu/Beeramid.js)**: Beeramid.
 - **[Challenge 3](/5kyu/Calculating-with-Functions.js)**: Calculating with Functions.
+- **[Challenge 4](/5kyu/Extract-the-domain-name-from-a-URL.js)**: Extract the domain name from a URL.
 
 ### 6kyu
 
