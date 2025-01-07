@@ -86,6 +86,7 @@ Here are some examples of my solutions:
 - **[Challenge 17](/7kyu/Mumbling.js)**: Mumbling.
 - **[Challenge 18](/7kyu/Remove-the-minimum.js)**: Remove the minimum.
 - **[Challenge 19](/7kyu/Regex-validate-PIN-code.js)**: Regex validate PIN code.
+- **[Challenge 20](/7kyu/Friend-or-Foe.js)**: Friend or Foe?
 
 ### 8kyu
 
