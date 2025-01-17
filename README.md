@@ -64,6 +64,7 @@ Here are some examples of my solutions:
 - **[Challenge 16](/6kyu/Your-order-please.js)**: Your order, please.
 - **[Challenge 17](/6kyu/Sum-of-Digits-Digital-Root.js)**: Sum of Digits / Digital Root.
 - **[Challenge 18](/6kyu/Create-Phone-Number.js)**: Create Phone Number.
+- **[Challenge 19](/6kyu/Split-Strings.js)**: Split Strings.
 
 ### 7kyu
 
