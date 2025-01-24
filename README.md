@@ -88,6 +88,7 @@ Here are some examples of my solutions:
 - **[Challenge 18](/7kyu/Remove-the-minimum.js)**: Remove the minimum.
 - **[Challenge 19](/7kyu/Regex-validate-PIN-code.js)**: Regex validate PIN code.
 - **[Challenge 20](/7kyu/Friend-or-Foe.js)**: Friend or Foe?
+- **[Challenge 21](/7kyu/Find-the-middle-element.js)**: Find the middle element.
 
 ### 8kyu
 
