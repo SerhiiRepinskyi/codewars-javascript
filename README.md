@@ -89,6 +89,7 @@ Here are some examples of my solutions:
 - **[Challenge 19](/7kyu/Regex-validate-PIN-code.js)**: Regex validate PIN code.
 - **[Challenge 20](/7kyu/Friend-or-Foe.js)**: Friend or Foe?
 - **[Challenge 21](/7kyu/Find-the-middle-element.js)**: Find the middle element.
+- **[Challenge 22](/7kyu/Lost-number-in-number-sequence.js)**: Lost number in number sequence.
 
 ### 8kyu
 
