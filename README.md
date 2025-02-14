@@ -113,6 +113,7 @@ Here are some examples of my solutions:
 - **[Challenge 17](/8kyu/Are-You-Playing-Banjo.js)**: Are You Playing Banjo?
 - **[Challenge 18](/8kyu/Convert-number-to-reversed-array-of-digits.js)**: Convert number to reversed array of digits.
 - **[Challenge 19](/8kyu/What-is-between.js)**: What is between?
+- **[Challenge 20](/8kyu/altERnaTIng-cAsE-ALTerNAtiNG-CaSe.js)**: altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 
 ## How to Use
 
