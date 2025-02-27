@@ -67,6 +67,7 @@ Here are some examples of my solutions:
 - **[Challenge 19](/6kyu/Split-Strings.js)**: Split Strings.
 - **[Challenge 20](/6kyu/Where-is-my-parent(cry).js)**: Where is my parent!?(cry).
 - **[Challenge 21](/6kyu/Replace-With-Alphabet-Position.js)**: Replace With Alphabet Position.
+- **[Challenge 22](/6kyu/Detect-Pangram.js)**: Detect Pangram.
 
 ### 7kyu
 
