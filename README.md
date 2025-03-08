@@ -43,6 +43,7 @@ Here are some examples of my solutions:
 - **[Challenge 2](/5kyu/Beeramid.js)**: Beeramid.
 - **[Challenge 3](/5kyu/Calculating-with-Functions.js)**: Calculating with Functions.
 - **[Challenge 4](/5kyu/Extract-the-domain-name-from-a-URL.js)**: Extract the domain name from a URL.
+- **[Challenge 5](/5kyu/RGB-To-Hex-Conversion.js)**: RGB To Hex Conversion.
 
 ### 6kyu
 
