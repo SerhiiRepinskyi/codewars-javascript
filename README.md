@@ -94,6 +94,7 @@ Here are some examples of my solutions:
 - **[Challenge 20](/7kyu/Friend-or-Foe.js)**: Friend or Foe?
 - **[Challenge 21](/7kyu/Find-the-middle-element.js)**: Find the middle element.
 - **[Challenge 22](/7kyu/Lost-number-in-number-sequence.js)**: Lost number in number sequence.
+- **[Challenge 23](/7kyu/Vowel-Count.js)**: Vowel Count.
 
 ### 8kyu
 
