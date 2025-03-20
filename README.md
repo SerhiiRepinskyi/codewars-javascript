@@ -44,6 +44,7 @@ Here are some examples of my solutions:
 - **[Challenge 3](/5kyu/Calculating-with-Functions.js)**: Calculating with Functions.
 - **[Challenge 4](/5kyu/Extract-the-domain-name-from-a-URL.js)**: Extract the domain name from a URL.
 - **[Challenge 5](/5kyu/RGB-To-Hex-Conversion.js)**: RGB To Hex Conversion.
+- **[Challenge 6](/5kyu/Moving-Zeros-To-The-End.js)**: Moving Zeros To The End.
 
 ### 6kyu
 
