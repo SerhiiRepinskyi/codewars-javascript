@@ -45,6 +45,7 @@ Here are some examples of my solutions:
 - **[Challenge 4](/5kyu/Extract-the-domain-name-from-a-URL.js)**: Extract the domain name from a URL.
 - **[Challenge 5](/5kyu/RGB-To-Hex-Conversion.js)**: RGB To Hex Conversion.
 - **[Challenge 6](/5kyu/Moving-Zeros-To-The-End.js)**: Moving Zeros To The End.
+- **[Challenge 7](/5kyu/Simple-Pig-Latin.js)**: Simple Pig Latin.
 
 ### 6kyu
 
