@@ -47,6 +47,7 @@ Here are some examples of my solutions:
 - **[Challenge 6](/5kyu/Moving-Zeros-To-The-End.js)**: Moving Zeros To The End.
 - **[Challenge 7](/5kyu/Simple-Pig-Latin.js)**: Simple Pig Latin.
 - **[Challenge 8](/5kyu/Directions-Reduction.js)**: Directions Reduction.
+- **[Challenge 9](/5kyu/Pete-the-baker.js)**: Pete, the baker.
 
 ### 6kyu
 
