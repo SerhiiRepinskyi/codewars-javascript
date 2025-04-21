@@ -48,6 +48,7 @@ Here are some examples of my solutions:
 - **[Challenge 7](/5kyu/Simple-Pig-Latin.js)**: Simple Pig Latin.
 - **[Challenge 8](/5kyu/Directions-Reduction.js)**: Directions Reduction.
 - **[Challenge 9](/5kyu/Pete-the-baker.js)**: Pete, the baker.
+- **[Challenge 10](/5kyu/The-Hashtag-Generator.js)**: The Hashtag Generator.
 
 ### 6kyu
 
