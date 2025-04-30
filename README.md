@@ -49,6 +49,7 @@ Here are some examples of my solutions:
 - **[Challenge 8](/5kyu/Directions-Reduction.js)**: Directions Reduction.
 - **[Challenge 9](/5kyu/Pete-the-baker.js)**: Pete, the baker.
 - **[Challenge 10](/5kyu/The-Hashtag-Generator.js)**: The Hashtag Generator.
+- **[Challenge 11](/5kyu/First-non-repeating-character.js)**: First non-repeating character.
 
 ### 6kyu
 
