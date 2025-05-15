@@ -51,6 +51,7 @@ Here are some examples of my solutions:
 - **[Challenge 10](/5kyu/The-Hashtag-Generator.js)**: The Hashtag Generator.
 - **[Challenge 11](/5kyu/First-non-repeating-character.js)**: First non-repeating character.
 - **[Challenge 12](/5kyu/Scramblies.js)**: Scramblies.
+- **[Challenge 13](/5kyu/Not-very-secure.js)**: Not very secure.
 
 ### 6kyu
 
