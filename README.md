@@ -77,6 +77,7 @@ Here are some examples of my solutions:
 - **[Challenge 20](/6kyu/Where-is-my-parent(cry).js)**: Where is my parent!?(cry).
 - **[Challenge 21](/6kyu/Replace-With-Alphabet-Position.js)**: Replace With Alphabet Position.
 - **[Challenge 22](/6kyu/Detect-Pangram.js)**: Detect Pangram.
+- **[Challenge 23](/6kyu/Stop-gninnipS-My-sdroW!.js)**: Stop gninnipS My sdroW!
 
 ### 7kyu
 
