@@ -78,6 +78,7 @@ Here are some examples of my solutions:
 - **[Challenge 21](/6kyu/Replace-With-Alphabet-Position.js)**: Replace With Alphabet Position.
 - **[Challenge 22](/6kyu/Detect-Pangram.js)**: Detect Pangram.
 - **[Challenge 23](/6kyu/Stop-gninnipS-My-sdroW!.js)**: Stop gninnipS My sdroW!
+- **[Challenge 24](/6kyu/Build-Tower.js)**: Build Tower.
 
 ### 7kyu
 
