@@ -81,6 +81,7 @@ Here are some examples of my solutions:
 - **[Challenge 23](/6kyu/Stop-gninnipS-My-sdroW!.js)**: Stop gninnipS My sdroW!
 - **[Challenge 24](/6kyu/Build-Tower.js)**: Build Tower.
 - **[Challenge 25](/6kyu/Find-the-unique-number.js)**: Find the unique number.
+- **[Challenge 26](/6kyu/Mexican-Wave.js)**: Mexican Wave.
 
 ### 7kyu
 
