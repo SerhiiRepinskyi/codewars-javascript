@@ -82,6 +82,7 @@ Here are some examples of my solutions:
 - **[Challenge 24](/6kyu/Build-Tower.js)**: Build Tower.
 - **[Challenge 25](/6kyu/Find-the-unique-number.js)**: Find the unique number.
 - **[Challenge 26](/6kyu/Mexican-Wave.js)**: Mexican Wave.
+- **[Challenge 27](/6kyu/CamelCase-Method.js)**: CamelCase Method.
 
 ### 7kyu
 
