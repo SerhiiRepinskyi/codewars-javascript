@@ -83,6 +83,7 @@ Here are some examples of my solutions:
 - **[Challenge 25](/6kyu/Find-the-unique-number.js)**: Find the unique number.
 - **[Challenge 26](/6kyu/Mexican-Wave.js)**: Mexican Wave.
 - **[Challenge 27](/6kyu/CamelCase-Method.js)**: CamelCase Method.
+- **[Challenge 28](/6kyu/Sort-the-odd.js)**: Sort the odd.
 
 ### 7kyu
 
