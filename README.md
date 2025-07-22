@@ -54,6 +54,7 @@ Here are some examples of my solutions:
 - **[Challenge 13](/5kyu/Not-very-secure.js)**: Not very secure.
 - **[Challenge 14](/5kyu/Rot13.js)**: Rot13.
 - **[Challenge 15](/5kyu/Convert-A-Hex-String-To-RGB.js)**: Convert A Hex String To RGB.
+- **[Challenge 16](/5kyu/Count-IP-Addresses.js)**: Count IP Addresses.
 
 ### 6kyu
 
