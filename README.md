@@ -55,6 +55,8 @@ Here are some examples of my solutions:
 - **[Challenge 14](/5kyu/Rot13.js)**: Rot13.
 - **[Challenge 15](/5kyu/Convert-A-Hex-String-To-RGB.js)**: Convert A Hex String To RGB.
 - **[Challenge 16](/5kyu/Count-IP-Addresses.js)**: Count IP Addresses.
+- **[Challenge 17](/5kyu/Mean-Square-Error.js)**: Mean Square Error.
+
 
 ### 6kyu
 
