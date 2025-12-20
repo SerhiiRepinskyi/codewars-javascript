@@ -90,6 +90,7 @@ Here are some examples of my solutions:
 - **[Challenge 28](/6kyu/Sort-the-odd.js)**: Sort the odd.
 - **[Challenge 29](/6kyu/Multiples-of-3-or-5.js)**: Multiples of 3 or 5.
 - **[Challenge 30](/6kyu/Highest-Scoring-Word.js)**: Highest Scoring Word.
+- **[Challenge 31](/6kyu/Write-Number-in-Expanded-Form.js)**: Write Number in Expanded Form.
 
 ### 7kyu
 
