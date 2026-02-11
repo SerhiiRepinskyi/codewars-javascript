@@ -118,6 +118,7 @@ Here are some examples of my solutions:
 - **[Challenge 22](/7kyu/Lost-number-in-number-sequence.js)**: Lost number in number sequence.
 - **[Challenge 23](/7kyu/Vowel-Count.js)**: Vowel Count.
 - **[Challenge 24](/7kyu/Exes-and-Ohs.js)**: Exes and Ohs.
+- **[Challenge 25](/7kyu/Jaden-Casing-Strings.js)**: Jaden Casing Strings.
 
 ### 8kyu
 
