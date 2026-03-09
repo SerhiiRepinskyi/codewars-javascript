@@ -120,6 +120,7 @@ Here are some examples of my solutions:
 - **[Challenge 24](/7kyu/Exes-and-Ohs.js)**: Exes and Ohs.
 - **[Challenge 25](/7kyu/Jaden-Casing-Strings.js)**: Jaden Casing Strings.
 - **[Challenge 26](/7kyu/Sentences-with-Functions.js)**: Sentences with Functions.
+- **[Challenge 27](/7kyu/Closure-Counter.js)**: Closure Counter.
 
 ### 8kyu
 
