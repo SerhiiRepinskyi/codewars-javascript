@@ -121,6 +121,7 @@ Here are some examples of my solutions:
 - **[Challenge 25](/7kyu/Jaden-Casing-Strings.js)**: Jaden Casing Strings.
 - **[Challenge 26](/7kyu/Sentences-with-Functions.js)**: Sentences with Functions.
 - **[Challenge 27](/7kyu/Closure-Counter.js)**: Closure Counter.
+- **[Challenge 28](/7kyu/Static-privacy.js)**: Static privacy.
 
 ### 8kyu
 
