@@ -122,6 +122,7 @@ Here are some examples of my solutions:
 - **[Challenge 26](/7kyu/Sentences-with-Functions.js)**: Sentences with Functions.
 - **[Challenge 27](/7kyu/Closure-Counter.js)**: Closure Counter.
 - **[Challenge 28](/7kyu/Static-privacy.js)**: Static privacy.
+- **[Challenge 29](/7kyu/A-Promise-is-a-Promise.js)**: A Promise is a Promise.
 
 ### 8kyu
 
