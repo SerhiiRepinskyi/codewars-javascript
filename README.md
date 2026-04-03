@@ -123,6 +123,7 @@ Here are some examples of my solutions:
 - **[Challenge 27](/7kyu/Closure-Counter.js)**: Closure Counter.
 - **[Challenge 28](/7kyu/Static-privacy.js)**: Static privacy.
 - **[Challenge 29](/7kyu/A-Promise-is-a-Promise.js)**: A Promise is a Promise.
+- **[Challenge 30](/7kyu/Sort-with-Arrow-Functions.js)**: Sort with Arrow Functions.
 
 ### 8kyu
 
