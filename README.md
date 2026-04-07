@@ -124,6 +124,7 @@ Here are some examples of my solutions:
 - **[Challenge 28](/7kyu/Static-privacy.js)**: Static privacy.
 - **[Challenge 29](/7kyu/A-Promise-is-a-Promise.js)**: A Promise is a Promise.
 - **[Challenge 30](/7kyu/Sort-with-Arrow-Functions.js)**: Sort with Arrow Functions.
+- **[Challenge 31](/7kyu/Combine-objects.js)**: Combine objects.
 
 ### 8kyu
 
