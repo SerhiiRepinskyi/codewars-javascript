@@ -128,6 +128,7 @@ Here are some examples of my solutions:
 - **[Challenge 31](/7kyu/Combine-objects.js)**: Combine objects.
 - **[Challenge 32](/7kyu/Is-every-value-in-the-array-an-array.js)**: Is every value in the array an array?
 - **[Challenge 33](/7kyu/Convert-an-array-of-strings-to-array-of-numbers.js)**: Convert an array of strings to array of numbers.
+- **[Challenge 34](/7kyu/Max-min-arrays.js)**: Max-min arrays.
 
 ### 8kyu
 
