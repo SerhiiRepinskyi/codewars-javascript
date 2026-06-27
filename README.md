@@ -92,6 +92,7 @@ Here are some examples of my solutions:
 - **[Challenge 30](/6kyu/Highest-Scoring-Word.js)**: Highest Scoring Word.
 - **[Challenge 31](/6kyu/Write-Number-in-Expanded-Form.js)**: Write Number in Expanded Form.
 - **[Challenge 32](/6kyu/The-range-function.js)**: The range() function.
+- **[Challenge 33](/6kyu/Create-N-dimensional-array.js)**: Create N-dimensional array.
 
 ### 7kyu
 
