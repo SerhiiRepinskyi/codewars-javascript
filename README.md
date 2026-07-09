@@ -155,6 +155,7 @@ Here are some examples of my solutions:
 - **[Challenge 19](/8kyu/What-is-between.js)**: What is between?
 - **[Challenge 20](/8kyu/altERnaTIng-cAsE-ALTerNAtiNG-CaSe.js)**: altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 - **[Challenge 21](/8kyu/Is-it-a-palindrome.js)**: Is it a palindrome?
+- **[Challenge 22](/8kyu/Classy-Extensions.js)**: Classy Extensions.
 
 
 ## How to Use
