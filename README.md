@@ -132,6 +132,7 @@ Here are some examples of my solutions:
 - **[Challenge 33](/7kyu/Convert-an-array-of-strings-to-array-of-numbers.js)**: Convert an array of strings to array of numbers.
 - **[Challenge 34](/7kyu/Max-min-arrays.js)**: Max-min arrays.
 - **[Challenge 35](/7kyu/Change-two-dimensional-array.js)**: Change two-dimensional array.
+- **[Challenge 36](/7kyu/Refactored-Greeting.js)**: Refactored Greeting.
 
 ### 8kyu
 
@@ -157,7 +158,6 @@ Here are some examples of my solutions:
 - **[Challenge 20](/8kyu/altERnaTIng-cAsE-ALTerNAtiNG-CaSe.js)**: altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 - **[Challenge 21](/8kyu/Is-it-a-palindrome.js)**: Is it a palindrome?
 - **[Challenge 22](/8kyu/Classy-Extensions.js)**: Classy Extensions.
-
 
 ## How to Use
 
