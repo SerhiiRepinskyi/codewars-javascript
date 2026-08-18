@@ -94,7 +94,7 @@ Here are some examples of my solutions:
 - **[Challenge 32](/6kyu/The-range-function.js)**: The range() function.
 - **[Challenge 33](/6kyu/Create-N-dimensional-array.js)**: Create N-dimensional array.
 - **[Challenge 34](/6kyu/Urban-Dictionary.js)**: Urban Dictionary.
-- **[Challenge 34](/6kyu/this-is-an-other-problem.js)**: "this" is an other problem.
+- **[Challenge 35](/6kyu/this-is-an-other-problem.js)**: "this" is an other problem.
 
 ### 7kyu
 
