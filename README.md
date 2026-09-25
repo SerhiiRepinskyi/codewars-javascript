@@ -134,6 +134,7 @@ Here are some examples of my solutions:
 - **[Challenge 34](/7kyu/Max-min-arrays.js)**: Max-min arrays.
 - **[Challenge 35](/7kyu/Change-two-dimensional-array.js)**: Change two-dimensional array.
 - **[Challenge 36](/7kyu/Refactored-Greeting.js)**: Refactored Greeting.
+- **[Challenge 37](/7kyu/Shortest-Word.js)**: Shortest Word.
 
 ### 8kyu
 
