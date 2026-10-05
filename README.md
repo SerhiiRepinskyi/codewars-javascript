@@ -95,6 +95,7 @@ Here are some examples of my solutions:
 - **[Challenge 33](/6kyu/Create-N-dimensional-array.js)**: Create N-dimensional array.
 - **[Challenge 34](/6kyu/Urban-Dictionary.js)**: Urban Dictionary.
 - **[Challenge 35](/6kyu/this-is-an-other-problem.js)**: "this" is an other problem.
+- **[Challenge 36](/6kyu/Find-the-missing-letter.js)**: Find the missing letter.
 
 ### 7kyu
 
